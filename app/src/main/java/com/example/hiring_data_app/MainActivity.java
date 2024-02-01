@@ -310,7 +310,7 @@ public class MainActivity extends AppCompatActivity {
 
             public void bind(int position) {
                 int listPosition = findListPosition(position);
-                int childPosition = position - listPosition - 1; // Adjust for group item
+                int childPosition = position - listPosition - 1;
                 Triple<Integer, Integer, String> item = mData.get(mListIds.get(listPosition)).get(childPosition);
                 textId.setText(" " + item.first);
                 textName.setText(" " + item.third);
