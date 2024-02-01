@@ -19,6 +19,8 @@ The Hiring Data App is an Android application that fetches data from a remote JS
 
 # Working App Screenshots
 Developed on:
+
+```
 Android Studio Hedgehog | 2023.1.1 Patch 2
 Build #AI-231.9392.1.2311.11330709, built on January 18, 2024
 Runtime version: 17.0.7+0-b2043.56-10550314 amd64
@@ -30,8 +32,10 @@ Cores: 8
 Registry:
     external.system.auto.import.disabled=true
     ide.text.editor.with.preview.show.floating.toolbar=false
+```
 
 Virtual Device:
+```
 Properties
 avd.ini.displayname              Medium Phone API 33
 avd.ini.encoding                 UTF-8
@@ -77,6 +81,7 @@ skin.path.backup                 _no_skin
 tag.display                      Google Play
 tag.id                           google_apis_playstore
 vm.heapSize                      228
+```
 
 
 ![First Page](https://github.com/manaswini1869/android_app_json/assets/67456649/0c563371-8e4c-4281-94d1-61172291f164)    ![Grouped](https://github.com/manaswini1869/android_app_json/assets/67456649/a13a2900-ce75-413a-b85a-a99f25ef308d)    ![Data](https://github.com/manaswini1869/android_app_json/assets/67456649/1a4be81d-1b69-414c-94fe-28eb6dc78ec7)
