@@ -9,8 +9,10 @@ The Hiring Data App is an Android application that fetches data from a remote JS
 
 # Installation
 * Clone the repository to your local machine:
-
+```
 [git clone https://github.com/your-username/hiring-data-app.git](https://github.com/manaswini1869/android_app_json.git)
+
+```
 
 * Open the project in Android Studio.
 * Build and run the application on an Android emulator or device.
