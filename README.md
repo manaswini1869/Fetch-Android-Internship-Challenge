@@ -77,9 +77,7 @@ tag.id                           google_apis_playstore
 vm.heapSize                      228
 
 
-![First Page](https://github.com/manaswini1869/android_app_json/assets/67456649/0c563371-8e4c-4281-94d1-61172291f164)
-
-![Grouped](https://github.com/manaswini1869/android_app_json/assets/67456649/a13a2900-ce75-413a-b85a-a99f25ef308d)
+![First Page](https://github.com/manaswini1869/android_app_json/assets/67456649/0c563371-8e4c-4281-94d1-61172291f164)    ![Grouped](https://github.com/manaswini1869/android_app_json/assets/67456649/a13a2900-ce75-413a-b85a-a99f25ef308d)
 
 ![Data](https://github.com/manaswini1869/android_app_json/assets/67456649/1a4be81d-1b69-414c-94fe-28eb6dc78ec7)
 
